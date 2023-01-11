@@ -1,3 +1,11 @@
+## simulate your meta or objective financial
+
+
+
+
+
+
+
 # Quasar App (meta-simulador)
 
 A Quasar Project
